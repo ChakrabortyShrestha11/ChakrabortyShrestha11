@@ -1,7 +1,11 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Shrestha Chakraborty</h1>
 <h3 align="center">A 4th-year computer science student passionate about web dev,frontend developement and DSA algorithms and WordPress. I'm always eager to learn new technologies and improve my skills from India.</h3>
-
-<h3 align="left">Connect with me:</h3>
+<img align ="center" alt ="coding" width ="400" src="https://th.bing.com/th/id/OIP.Cbop5fIITX49AT6LDZwvRAHaE0?rs=1&pid=ImgDetMain">
+<img align ="right" alt="quotes that keeps me going" width="400" src="https://www.theeducationmagazine.com/wp-content/uploads/2020/03/19.jpg">
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
